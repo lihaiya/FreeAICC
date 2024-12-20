@@ -1,20 +1,20 @@
 # 开源大模型呼叫中心FreeAICC
-呼叫中心，大模型呼入机器人，大模型呼出机器人，智能外呼，大模型机器人，智能电话外呼，大模型，FreeSWITCH大模型智能客服！LLM,Call,IPCC,Voice,AI,Call Center,FreeSWITCH,TTS,ASR,NLP！
+AI Call Center，呼叫中心，大模型呼入机器人，大模型呼出机器人，智能外呼，大模型机器人，智能电话外呼，大模型，FreeSWITCH大模型智能客服！LLM,Call,IPCC,Voice,AI,Call Center,FreeSWITCH,TTS,ASR,NLP！
 
-### 完整:前端、后端、数据库，齐全！
+# 完整:前端、后端、数据库，齐全！
 
-### 目标
+# 目标
 
 致力于成为大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、智能呼叫中心系统、大模型智能客服系统的全球领导者！！！
 
-### 📫 How to reach us:
+# 📫 How to reach us:
 
 - 官方WeChat:freeipcc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-### Demo链接
+# Demo链接
 
 2024.12.20，最新链接，enjoy😄😄：
 
@@ -24,12 +24,12 @@ http://118.25.192.13:8822/cc
 2，工单：(demo/123456)
 http://118.25.192.13:80
 
-### 开发语言
+# 开发语言
 
 业务模块Java为主；智能模块Python为主。
 
 
-### FreeAICC愿景与基础功能
+# FreeAICC愿景与基础功能
 愿景：
 FreeAICC项目脱胎于FreeIPCC，在大模型时代，率先将大模型、人工智能，运用在实时通信领域！
 1，AI坐席，提高服务效率；
