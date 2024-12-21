@@ -1,5 +1,5 @@
 # 开源大模型呼叫中心FreeAICC
-AI Call Center，呼叫中心，大模型呼入机器人，大模型呼出机器人，智能外呼，大模型机器人，智能电话外呼，大模型，FreeSWITCH大模型智能客服！LLM,Call,IPCC,Voice,AI,Call Center,FreeSWITCH,TTS,ASR,NLP！
+AI Call Center，大模型呼叫中心，智能呼叫中心，呼叫中心，大模型呼入机器人，大模型呼出机器人，智能外呼，大模型机器人，智能电话外呼，大模型，FreeSWITCH大模型智能客服！LLM,Call,IPCC,Voice,AI,Call Center,FreeSWITCH,TTS,ASR,NLP！
 
 # 完整:前端、后端、数据库，齐全！
 
@@ -16,7 +16,7 @@ AI Call Center，呼叫中心，大模型呼入机器人，大模型呼出机器
 
 # Demo链接
 
-2024.12.20，最新链接，enjoy😄😄：
+2024.12.21，最新链接，enjoy😄😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
