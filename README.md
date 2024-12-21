@@ -1,4 +1,4 @@
-# 开源大模型呼叫中心FreeAICC
+# 大模型智能呼叫中心FreeAICC
 呼叫中心，大模型呼入机器人，大模型呼出机器人，智能外呼，大模型机器人，智能电话外呼，大模型，FreeSWITCH大模型智能客服，大模型呼叫中心！AI Call Center，LLM,Call,IPCC,Voice,AI,Call Center,FreeSWITCH,TTS,ASR,NLP！
 
 # 完整:前端、后端、数据库，齐全！
