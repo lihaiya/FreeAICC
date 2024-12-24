@@ -1,5 +1,5 @@
 # 大模型智能呼叫中心系统FreeAICC
-呼叫中心，大模型呼入机器人，大模型呼出机器人，大模型呼叫中心，智能外呼，大模型机器人，智能电话外呼，大模型，FreeSWITCH大模型智能客服，大模型智能呼叫中心系统，AI Call Center，LLM,Call,IPCC,Voice,AI,Call Center,FreeSWITCH,TTS,ASR,NLP！！！
+呼叫中心，大模型呼入机器人，大模型呼出机器人，大模型呼叫中心，智能外呼，大模型机器人，智能电话外呼，大模型，FreeSWITCH大模型智能客服，大模型智能呼叫中心系统，AI Call Center，LLM,Call,IPCC,Voice,AI,Call Center,FreeSWITCH,TTS,ASR,NLP！！！！！
 
 # 完整:前端、后端、数据库，齐全！
 
@@ -14,9 +14,7 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# Demo链接
-
-2024.12.24，最新链接，enjoy😄😄：
+# Demo链接，2024.12.24最新，enjoy😄😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
