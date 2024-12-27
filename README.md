@@ -14,7 +14,7 @@ AI Call Center，大模型呼叫中心，智能呼叫中心，呼叫中心，大
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# Demo：2024.12.26最新链接，enjoy😄😄：
+# Demo：2024.12.27最新链接，enjoy😄😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
