@@ -9,7 +9,7 @@ AI Call Center，大模型呼叫中心，智能呼叫中心，呼叫中心，大
 
 # 📫 How to reach us:
 
-- 官方WeChat:freeipcc
+- 官方WeChat:freeaicc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
