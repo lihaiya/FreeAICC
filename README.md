@@ -1,11 +1,11 @@
 # 大模型智能呼叫中心FreeAICC
-AI Call Center，大模型呼叫中心，智能呼叫中心，呼叫中心，大模型呼入机器人，大模型呼出机器人，智能外呼，大模型机器人，智能电话外呼，大模型，FreeSWITCH大模型智能客服，大模型智能呼叫中心系统，contact center,inbound call,outbound call，LLM,Call,IPCC,Voice,AI,Call Center,FreeSWITCH,TTS,ASR,NLP，联络中心，客服中心，！！！！
+AI Call Center，大模型呼叫中心，智能呼叫中心，呼叫中心，大模型呼入机器人，大模型呼出机器人，智能外呼，大模型机器人，智能电话外呼，大模型，FreeSWITCH大模型智能客服，大模型智能呼叫中心系统，contact center,inbound call,outbound call，LLM,Call,IPCC,Voice,AI,Call Center,FreeSWITCH,TTS,ASR,NLP，联络中心，客服中心！！！！
 
 # 完整:前端、后端、数据库，齐全！
 
 # 目标
 
-致力于成为大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、智能呼叫中心系统、大模型智能客服系统的全球领导者！！
+致力于成为大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、智能呼叫中心系统、大模型智能客服系统的全球领导者！！!
 
 # 📫 How to reach us:
 
