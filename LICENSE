@@ -15,6 +15,8 @@ FreeAICC is licensed under the Apache License 2.0, with the following additional
 
 a. Multi-tenant service: Unless explicitly authorized by FreeAICC in writing, you may not use the FreeAICC source code to operate a multi-tenant environment. 
     - Tenant Definition: Within the context of FreeAICC, one tenant corresponds to one workspace. The workspace provides a separated area for each tenant's data and configurations.
+b. LOGO and copyright information: In the process of using FreeAICC's frontend, you may not remove or modify the LOGO or copyright information in the FreeAICC console or applications. This restriction is inapplicable to uses of FreeAICC that do not involve its frontend.You can contact us for authorization.
+    - Frontend Definition: For the purposes of this license, the "frontend" of FreeAICC includes all components when running FreeAICC from the raw source code, or the "web" image when running FreeAICC with Docker.
 
 Please contact lihaiya@gousandian.com by email to inquire about licensing matters.
 
