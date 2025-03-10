@@ -15,7 +15,7 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# 2025.03.09最新demo链接enjoy😄😄：
+# 2025.03.10最新demo链接enjoy😄😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
@@ -46,8 +46,9 @@ FreeAICC项目脱胎于FreeIPCC，在大模型时代，率先将大模型、人�
 
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
+![freeipcc14](https://github.com/user-attachments/assets/1638c126-b04c-4b65-9859-1c622e833141)
+![freeipcc15](https://github.com/user-attachments/assets/783f3d44-9143-46e1-8fad-b959d0052bb3)
 ![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/e869705f-789a-4f2d-8a6e-eb94954af751)
-![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图02](https://github.com/user-attachments/assets/acf4b139-0565-4cbc-83f8-aee5889ab47b)
 ![freeaicc二维码](https://github.com/user-attachments/assets/4e1f9c82-2ec8-4069-995a-cb949b90b917)
 ![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
 ![image](https://github.com/user-attachments/assets/34ec0973-a012-47ae-b924-3d25a9c65c58)
@@ -69,4 +70,4 @@ FreeAICC项目脱胎于FreeIPCC，在大模型时代，率先将大模型、人�
 ![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
 ![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
 
-## 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！！
+## 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
