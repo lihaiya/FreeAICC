@@ -1,6 +1,6 @@
 # 大模型智能呼叫中心系统FreeAICC 
 大模型智能呼叫中心系统，FreeSWITCH，大模型，呼叫中心，大模型呼入机器人，大模型呼出机器人，大模型呼叫中心，智能外呼，大模型机器人，智能电话外呼，FreeSWITCH大模型智能客服，大模型智能呼叫中心系统，AI Call Center，LLM,Call,IPCC,Voice,AI,Call Center,TTS,ASR,NLP，联络中心，客服中心!!
-**Read this in other languages: [English](README-EN.md).**
+**Read this in [English](README-EN.md).**
 ## 😄完整性：前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
