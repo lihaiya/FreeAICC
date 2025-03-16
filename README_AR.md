@@ -59,11 +59,21 @@ http://118.25.192.13:80
 
 6. دعم المجتمع والبناء المشترك البيئي: إنشاء مجتمع مفتوح المصدر نشط لتشجيع المستخدمين على مشاركة الخبرات واقتراح المتطلبات والمساهمة في الكود وتعزيز التطوير المستمر وتحسين المشروع. نحن نؤمن أنه من خلال قوة المجتمع، سيستمر مركز الاتصال مفتوح المصدر الخاص بنا في التطور وسيصبح رائدًا في خدمة العملاء!
 
+   ![image](https://github.com/user-attachments/assets/69a06c5a-9a9e-4f58-a058-9f57bc5ba68a)
+   ![image](https://github.com/user-attachments/assets/0879a48e-2598-4922-9bb7-11b6b6f93191)
+![image](https://github.com/user-attachments/assets/55c7cbff-60c5-4a66-9e89-4365e0028f33)
+![image](https://github.com/user-attachments/assets/b6e5f1c1-5966-431d-91f4-f1765a1a3623)
+![image](https://github.com/user-attachments/assets/5dc4178e-0e46-4752-918a-9626908109fe)
+![image](https://github.com/user-attachments/assets/8a68c88e-c6b3-4efd-a9d9-155e1c72b6dc)
+![image](https://github.com/user-attachments/assets/c3344a71-8d18-4f83-8a83-a470b5531b5e)
+![image](https://github.com/user-attachments/assets/bc2b877b-9a22-4d58-8932-04d9822179c3)
+![image](https://github.com/user-attachments/assets/ec7057e8-0bb7-4a87-ae1b-7997c00472c0)
+![image](https://github.com/user-attachments/assets/26d10a67-5ce4-4783-a6e1-c1fb57c4ef4c)
 
 ## 🤔قائمة وظائف نظام الاتصال
 
-![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
-![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
-
+![image](https://github.com/user-attachments/assets/f8b04b8d-dd10-4abe-aa8d-ad098a6b1b6e)
+![image](https://github.com/user-attachments/assets/8d7aa0fb-e2da-4607-8b3f-e9053235010b)
+![image](https://github.com/user-attachments/assets/752762b2-0107-4409-ad84-ff7a16a21e79)
 # 😄اسمحوا لي أن أعبر عن قيمنا مرة أخرى: نحن نؤمن إيمانا راسخا أنه فقط عندما يتم استخدام البرنامج يمكنه أن يجلب القيمة للمستخدمين ويسمح لنفسه بالتكرار! ! !
 
