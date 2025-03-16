@@ -1,5 +1,5 @@
 # LLM Call Center System FreeAICC
-LLM call center system, contact center, AI Call Center, big language model, call center, intelligent outbound call, LLM, Call, IPCC, Voice, AI, TTS, ASR, NLP, customer service center!
+LLM call center system, AI Call Center, contact center, call center, intelligent outbound call, LLM, big language model, IPCC, Voice, AI, TTS, ASR, NLP, customer service center!
 
 ## 😄Completeness: front-end, back-end, database, all complete! Full functionality, no restrictions! No distinction between community version and commercial version!
 
