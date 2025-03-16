@@ -1,6 +1,5 @@
-# Large Model Intelligent Call Center System FreeAICC
-
-Big model intelligent call center system, FreeSWITCH, big model, call center, big model inbound robot, big model outbound robot, big model call center, intelligent outbound call, big model robot, intelligent outbound call, FreeSWITCH big model intelligent customer service, big model intelligent call center system, AI Call Center, LLM, Call, IPCC, Voice, AI, Call Center, TTS, ASR, NLP, contact center, customer service center!
+# LLM Call Center System FreeAICC
+LLM call center system, contact center, AI Call Center, big language model, call center, intelligent outbound call, LLM, Call, IPCC, Voice, AI, TTS, ASR, NLP, customer service center!
 
 ## 😄Completeness: front-end, back-end, database, all complete! Full functionality, no restrictions! No distinction between community version and commercial version!
 
