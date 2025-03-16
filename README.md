@@ -1,48 +1,49 @@
-# 大模型智能呼叫中心系统FreeAICC 
-大模型智能呼叫中心系统，FreeSWITCH，大模型，呼叫中心，大模型呼入机器人，大模型呼出机器人，大模型呼叫中心，智能外呼，大模型机器人，智能电话外呼，FreeSWITCH大模型智能客服，大模型智能呼叫中心系统，AI Call Center，LLM,Call,IPCC,Voice,AI,Call Center,TTS,ASR,NLP，联络中心，客服中心!!
-**Read this in [English](README-EN.md).**
-## 😄完整性：前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！
-## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
-## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
-# 目标
+# Large Model Intelligent Call Center System FreeAICC
 
-致力于成为：大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、智能呼叫中心系统、大模型智能客服系统的全球领导者！
+Big model intelligent call center system, FreeSWITCH, big model, call center, big model inbound robot, big model outbound robot, big model call center, intelligent outbound call, big model robot, intelligent outbound call, FreeSWITCH big model intelligent customer service, big model intelligent call center system, AI Call Center, LLM, Call, IPCC, Voice, AI, Call Center, TTS, ASR, NLP, contact center, customer service center!
+
+## 😄Completeness: front-end, back-end, database, all complete! Full functionality, no restrictions! No distinction between community version and commercial version!
+## 😄We firmly believe that only when software is used can it bring value to users and allow itself to iterate!
+## 😄Sustainability: Continuous iteration since 2014, members come from ecological enterprises such as Cisco, Avaya, Huawei, FreeSWITCH, etc., long-termism!
+# Target
+We are committed to becoming the global leader in: open source call center systems, large model call center systems, large model inbound robots, large model outbound robots, telephone robots, intelligent call center systems, and large model intelligent customer service systems!
 
 # 📫 How to reach us:
 
-- 官方WeChat:freeaicc
+- Tencent WeChat:freeaicc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# 2025.03.13最新demo链接enjoy😄😄：
+# 2025.03.13 latest demo link enjoy😄😄：
 
-1，话务/在线客服：(demo123/demo123@Abc)
+1，Telephone/Online Customer Service：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
 
-2，工单：(demo/123456)
+2，Work Order：(demo/123456)
 http://118.25.192.13:80
 
-3，Demo视频：请下载仓库MP4文件。
+3，Demo video: Please download the repository MP4 file.
 
-# 开发语言：Java,Vue,Python,SpringBoot！
+# Development Language：Java,Vue,Python,SpringBoot！
 
-业务模块Java为主；智能模块Python为主。
+The business module is mainly Java; the intelligent module is mainly Python.
 
-# FreeAICC愿景与基础功能
-愿景：
-FreeAICC项目脱胎于FreeIPCC，在大模型时代，率先将大模型、人工智能，运用在实时通信领域！
-1，AI坐席，提高服务效率；
-2，AI外呼，提高业务通知、业务提醒效率；
-3，AI坐席辅助，让坐席更轻松！
+# FreeAICC Vision and basic functions
 
-基础功能：
-1.智能路由：基于预设规则或AI算法，自动将客户请求分配给最合适的客服代表或自助服务模块，确保客户问题得到及时、专业的处理。
-2.IVR（交互式语音应答）系统：提供灵活的语音菜单设计，引导客户自助完成查询、报修等常见操作，减轻人工坐席压力，提升服务效率。
-3.数据分析与报表：内置强大的数据分析引擎，自动生成各类服务报表，如通话量统计、客户满意度调查、服务效率分析等，为决策提供数据依据。
-4.开放API与插件扩展：提供丰富的API接口，支持第三方开发者基于我们的平台进行功能扩展或定制开发，同时，我们也将积极维护一个插件市场，收录优质插件供用户选择。
-5.高度可配置：提供直观的配置界面，让用户无需编程即可根据自身需求调整系统参数、优化工作流程，实现快速定制与部署。
-6.社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
+Vision:
+The FreeAICC project was born out of FreeIPCC. In the era of big models, it is the first to apply big models and artificial intelligence to the field of real-time communication!
+1. AI agents improve service efficiency;
+2. AI outbound calls improve the efficiency of business notifications and business reminders;
+3. AI agent assistance makes agents easier!
+
+Basic functions:
+1. Intelligent routing: Based on preset rules or AI algorithms, customer requests are automatically assigned to the most appropriate customer service representative or self-service module to ensure that customer issues are handled promptly and professionally.
+2. IVR (Interactive Voice Response) system: Provides flexible voice menu design to guide customers to complete common operations such as inquiries and repairs by themselves, reduce the pressure on manual agents, and improve service efficiency.
+3. Data analysis and reporting: Built-in powerful data analysis engine, automatically generates various service reports, such as call volume statistics, customer satisfaction surveys, service efficiency analysis, etc., to provide data basis for decision-making.
+4. Open API and plug-in extension: Provide rich API interfaces to support third-party developers to expand functions or customize development based on our platform. At the same time, we will also actively maintain a plug-in market and collect high-quality plug-ins for users to choose from.
+5. Highly configurable: Provide an intuitive configuration interface so that users can adjust system parameters and optimize workflows according to their own needs without programming, and achieve rapid customization and deployment.
+6. Community support and ecological co-construction: Establish an active open source community to encourage users to share experiences, put forward requirements, contribute code, and jointly promote the continuous development and improvement of the project. We believe that through the power of the community, our open source call center will continue to evolve and become a leader in the field of customer service!
 
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
 ![freeipcc14](https://github.com/user-attachments/assets/c1e5a412-6a38-48bc-bbad-2a129af562e7)
@@ -61,9 +62,10 @@ FreeAICC项目脱胎于FreeIPCC，在大模型时代，率先将大模型、人�
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
-## 🤔工单系统功能列表
+## 🤔Work Order System Function List
 
 ![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
 ![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
 
-# 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
+# 😄Let me express our values ​​again: We firmly believe that only when software is used can it bring value to users and allow itself to iterate!!!
+
