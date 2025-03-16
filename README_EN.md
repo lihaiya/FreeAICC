@@ -15,7 +15,7 @@ We are committed to becoming the global leader in: open source call center syste
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# 2025.03.13 latest demo link enjoy😄😄：
+# 2025.03.16 latest demo link enjoy😄😄：
 
 1，Telephone/Online Customer Service：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
@@ -45,27 +45,21 @@ Basic functions:
 5. Highly configurable: Provide an intuitive configuration interface so that users can adjust system parameters and optimize workflows according to their own needs without programming, and achieve rapid customization and deployment.
 6. Community support and ecological co-construction: Establish an active open source community to encourage users to share experiences, put forward requirements, contribute code, and jointly promote the continuous development and improvement of the project. We believe that through the power of the community, our open source call center will continue to evolve and become a leader in the field of customer service!
 
-![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
-![freeipcc14](https://github.com/user-attachments/assets/c1e5a412-6a38-48bc-bbad-2a129af562e7)
-![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
-![image](https://github.com/user-attachments/assets/52064c20-f502-423a-9546-b865aa2e11ff)
-![image](https://github.com/user-attachments/assets/b68d242e-ca19-4806-b84c-11239ee2d8f6)
-![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
-![freeipcc15](https://github.com/user-attachments/assets/a9b20c37-2b29-4a92-b06a-af1fcc5c75ed)
-![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
-![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
-![image](https://github.com/user-attachments/assets/34ec0973-a012-47ae-b924-3d25a9c65c58)
-![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
-![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
-![image](https://github.com/user-attachments/assets/96c81618-9d85-4d32-9f9a-6719426b4640)
-![image](https://github.com/user-attachments/assets/38877999-8119-4bb9-b280-4f0b26a06414)
-![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
-![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
+![image](https://github.com/user-attachments/assets/523a122e-fc42-44a0-aa3d-3cf9f0cc154a)
+![image](https://github.com/user-attachments/assets/69d7e932-6e7e-4ac6-8f04-3ef637e859a1)
+![image](https://github.com/user-attachments/assets/01705dcc-933a-49bd-b798-b25849e152df)
+![image](https://github.com/user-attachments/assets/8627ae75-9bca-4c50-b6a9-6c713f694abc)
+![image](https://github.com/user-attachments/assets/b16b77b2-2312-4324-8d60-fbe21aa7f81c)
+![image](https://github.com/user-attachments/assets/421299e3-18de-4815-b94c-3d97d6b3b027)
+![image](https://github.com/user-attachments/assets/6cbdd701-9349-4101-8b39-a5eb6dc0b7b2)
+![image](https://github.com/user-attachments/assets/97fe2184-2dff-4009-a8bf-95ea6a313d3e)
+![image](https://github.com/user-attachments/assets/46f29856-8270-43fe-b3e7-3240dd33d502)
+![image](https://github.com/user-attachments/assets/360f00f2-6a61-423f-ada0-eb67a2ce1ede)
+![image](https://github.com/user-attachments/assets/b8f100d0-6547-43dd-afab-ea331f0a8748)
 
-## 🤔Work Order System Function List
-
-![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
-![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
+## 🤔LLM Call Center System Function List
+![image](https://github.com/user-attachments/assets/56bea3a1-b1fd-4118-8eb4-66f010476af0)
+![image](https://github.com/user-attachments/assets/95328f16-e43a-4e6a-87d7-1c1ba95f5824)
+![image](https://github.com/user-attachments/assets/478dc431-8f05-4333-8d8a-4f61c9ff8749)
 
 # 😄Let me express our values ​​again: We firmly believe that only when software is used can it bring value to users and allow itself to iterate!!!
-
