@@ -3,6 +3,8 @@
 Big model intelligent call center system, FreeSWITCH, big model, call center, big model inbound robot, big model outbound robot, big model call center, intelligent outbound call, big model robot, intelligent outbound call, FreeSWITCH big model intelligent customer service, big model intelligent call center system, AI Call Center, LLM, Call, IPCC, Voice, AI, Call Center, TTS, ASR, NLP, contact center, customer service center!
 
 ## 😄Completeness: front-end, back-end, database, all complete! Full functionality, no restrictions! No distinction between community version and commercial version!
+The sample code is the backend code of the web customer service. The original frontend is outdated and is still being updated. As the product is too powerful, the team is very worried that the product will be used for illegal purposes. Therefore, if you need the source code, please contact us separately by email, describing your usage scenario, the nature of your enterprise, etc.
+
 ## 😄We firmly believe that only when software is used can it bring value to users and allow itself to iterate!
 ## 😄Sustainability: Continuous iteration since 2014, members come from ecological enterprises such as Cisco, Avaya, Huawei, FreeSWITCH, etc., long-termism!
 # Target
