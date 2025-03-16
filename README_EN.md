@@ -3,7 +3,10 @@
 Big model intelligent call center system, FreeSWITCH, big model, call center, big model inbound robot, big model outbound robot, big model call center, intelligent outbound call, big model robot, intelligent outbound call, FreeSWITCH big model intelligent customer service, big model intelligent call center system, AI Call Center, LLM, Call, IPCC, Voice, AI, Call Center, TTS, ASR, NLP, contact center, customer service center!
 
 ## 😄Completeness: front-end, back-end, database, all complete! Full functionality, no restrictions! No distinction between community version and commercial version!
-The sample code is the backend code of the web customer service. The original frontend is outdated and is still being updated. As the product is too powerful, the team is very worried that the product will be used for illegal purposes. Therefore, if you need the source code, please contact us separately by email, describing your usage scenario, the nature of your enterprise, etc.
+
+The sample code is the backend code of the web customer service. The original frontend is outdated and is still being updated. 
+
+As the FreeAICC is too powerful, the team is very worried that the product will be used for illegal purposes. Therefore, if you need the source code, please contact us separately by email, describing your usage scenario, the nature of your enterprise, etc.
 
 ## 😄We firmly believe that only when software is used can it bring value to users and allow itself to iterate!
 ## 😄Sustainability: Continuous iteration since 2014, members come from ecological enterprises such as Cisco, Avaya, Huawei, FreeSWITCH, etc., long-termism!
@@ -17,7 +20,7 @@ We are committed to becoming the global leader in: open source call center syste
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# 2025.03.16 latest demo link enjoy😄😄：
+# 2025.03.13 latest demo link enjoy😄😄：
 
 1，Telephone/Online Customer Service：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
