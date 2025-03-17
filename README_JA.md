@@ -59,23 +59,18 @@ FreeAICC の目標は FreeIPCC から解放され、大モデルの時間に、�
 
 6. コミュニティのサポートとエコシステムの共同構築: アクティブなオープンソース コミュニティを確立し、ユーザーが経験を共有し、要件を提案し、コードを貢献し、プロジェクトの継続的な開発と改善を共同で推進することを奨励します。コミュニティの力により、当社のオープンソース コール センターは進化を続け、カスタマー サービスのリーダーになると信じています。
 
-
-![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
-![freeipcc14](https://github.com/user-attachments/assets/c1e5a412-6a38-48bc-bbad-2a129af562e7)
-![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
-![image](https://github.com/user-attachments/assets/52064c20-f502-423a-9546-b865aa2e11ff)
-![image](https://github.com/user-attachments/assets/b68d242e-ca19-4806-b84c-11239ee2d8f6)
-![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
-![freeipcc15](https://github.com/user-attachments/assets/a9b20c37-2b29-4a92-b06a-af1fcc5c75ed)
-![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
-![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
-![image](https://github.com/user-attachments/assets/34ec0973-a012-47ae-b924-3d25a9c65c58)
-![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
-![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
-![image](https://github.com/user-attachments/assets/96c81618-9d85-4d32-9f9a-6719426b4640)
-![image](https://github.com/user-attachments/assets/38877999-8119-4bb9-b280-4f0b26a06414)
-![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
-![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
+![image](https://github.com/user-attachments/assets/0f8182ea-a518-4edd-82b3-4223fef9cfb9)
+![image](https://github.com/user-attachments/assets/81dcc495-9327-4e81-bb2a-f915672dfc28)
+![image](https://github.com/user-attachments/assets/cbcf58e9-eb53-404d-846a-4193f78819d9)
+![image](https://github.com/user-attachments/assets/f730cee6-f18b-4cd8-ab99-6515a89c8ed8)
+![image](https://github.com/user-attachments/assets/fa84e0a6-b611-4ba5-bd00-2e2702a3cdd6)
+![image](https://github.com/user-attachments/assets/d724e6d2-f097-4162-ade9-207c8e9d5b71)
+![image](https://github.com/user-attachments/assets/93ded453-4791-498b-af64-0f8d4c972803)
+![image](https://github.com/user-attachments/assets/a825ae86-ffbd-4514-8b3f-c707ac80f801)
+![image](https://github.com/user-attachments/assets/00cbce43-c9c4-4cdc-a602-7a2b68256cd3)
+![image](https://github.com/user-attachments/assets/19e74d97-2931-4009-a988-cb814606e5f7)
+![image](https://github.com/user-attachments/assets/584387ac-7a55-4df8-85ed-38f69f137fe2)
+![image](https://github.com/user-attachments/assets/fde615e1-f7d5-4471-aeef-9bcc56932f1d)
 
 ## 🤔作業指示システム機能一覧
 
