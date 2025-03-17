@@ -83,8 +83,8 @@ Basic functions:
 ![image](https://github.com/user-attachments/assets/38381405-081f-47a2-b722-5e58a75f0b0e)
 
 ## 🤔Liste des fonctions du système de centre d'appels LLM(LLM Call Center System Function List)
-![image](https://github.com/user-attachments/assets/56bea3a1-b1fd-4118-8eb4-66f010476af0)
-![image](https://github.com/user-attachments/assets/95328f16-e43a-4e6a-87d7-1c1ba95f5824)
-![image](https://github.com/user-attachments/assets/478dc431-8f05-4333-8d8a-4f61c9ff8749)
+![image](https://github.com/user-attachments/assets/5204cab5-d6c7-430a-bc02-55fb6c58675c)
+![image](https://github.com/user-attachments/assets/15289a65-2dfa-447f-b6fc-09ce79cadedd)
+![image](https://github.com/user-attachments/assets/e8034fed-f0ff-4831-84ec-575f0c1d67b5)
 
 # 😄Permettez-moi d'exprimer à nouveau nos valeurs : nous croyons fermement que ce n'est que lorsque le logiciel est utilisé qu'il peut apporter de la valeur aux utilisateurs et se permettre d'itérer !!!(Let me express our values ​​again: We firmly believe that only when software is used can it bring value to users and allow itself to iterate!!!)
