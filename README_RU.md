@@ -52,17 +52,17 @@ http://118.25.192.13:80
 5. Высокая степень настраиваемости: Предоставьте интуитивно понятный интерфейс настройки, чтобы пользователи могли настраивать параметры системы и оптимизировать рабочие процессы в соответствии со своими потребностями без программирования, а также добиться быстрой настройки и развертывания.
 6. Поддержка сообщества и экологическое совместное строительство: Создайте активное сообщество с открытым исходным кодом, чтобы поощрять пользователей делиться опытом, выдвигать требования, вносить код и совместно содействовать непрерывной разработке и улучшению проекта. Мы верим, что благодаря силе сообщества наш колл-центр с открытым исходным кодом продолжит развиваться и станет лидером в области обслуживания клиентов!
 
-![image](https://github.com/user-attachments/assets/523a122e-fc42-44a0-aa3d-3cf9f0cc154a)
-![image](https://github.com/user-attachments/assets/69d7e932-6e7e-4ac6-8f04-3ef637e859a1)
-![image](https://github.com/user-attachments/assets/01705dcc-933a-49bd-b798-b25849e152df)
-![image](https://github.com/user-attachments/assets/8627ae75-9bca-4c50-b6a9-6c713f694abc)
-![image](https://github.com/user-attachments/assets/b16b77b2-2312-4324-8d60-fbe21aa7f81c)
-![image](https://github.com/user-attachments/assets/421299e3-18de-4815-b94c-3d97d6b3b027)
-![image](https://github.com/user-attachments/assets/6cbdd701-9349-4101-8b39-a5eb6dc0b7b2)
-![image](https://github.com/user-attachments/assets/97fe2184-2dff-4009-a8bf-95ea6a313d3e)
-![image](https://github.com/user-attachments/assets/46f29856-8270-43fe-b3e7-3240dd33d502)
-![image](https://github.com/user-attachments/assets/360f00f2-6a61-423f-ada0-eb67a2ce1ede)
-![image](https://github.com/user-attachments/assets/b8f100d0-6547-43dd-afab-ea331f0a8748)
+![image](https://github.com/user-attachments/assets/7abd3b91-f5dc-4584-b7bb-46216c235649)
+![image](https://github.com/user-attachments/assets/400c0f16-1161-4ad4-8bb4-6e5be545b2c8)
+![image](https://github.com/user-attachments/assets/46c045e3-ea9e-44c6-bb0c-a7540b1ddb02)
+![image](https://github.com/user-attachments/assets/d3c86808-4fec-4a90-bbab-f59a6fa9ecf5)
+![image](https://github.com/user-attachments/assets/67fecea5-8cef-4e17-87db-44fee4e6a728)
+![image](https://github.com/user-attachments/assets/f4240d22-cb83-4192-b079-fb4510fb8f2b)
+![image](https://github.com/user-attachments/assets/3b71517b-3137-4d47-ba93-aba8c85fbdc4)
+![image](https://github.com/user-attachments/assets/89d8012d-56c2-40f2-a28f-bc27df3a09a4)
+![image](https://github.com/user-attachments/assets/b6e28e79-9ce9-4643-9891-155e520d6ad7)
+![image](https://github.com/user-attachments/assets/2e749afd-3b73-49da-bacf-145c92e457f8)
+![image](https://github.com/user-attachments/assets/a00a0d24-f0be-4e22-9428-77c98abbc690)
 
 ## 🤔Список функций системы колл-центра LLM
 ![image](https://github.com/user-attachments/assets/56bea3a1-b1fd-4118-8eb4-66f010476af0)
