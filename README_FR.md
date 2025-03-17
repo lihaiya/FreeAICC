@@ -71,17 +71,16 @@ Basic functions:
 5. Highly configurable: Provide an intuitive configuration interface so that users can adjust system parameters and optimize workflows according to their own needs without programming, and achieve rapid customization and deployment.
 6. Community support and ecological co-construction: Establish an active open source community to encourage users to share experiences, put forward requirements, contribute code, and jointly promote the continuous development and improvement of the project. We believe that through the power of the community, our open source call center will continue to evolve and become a leader in the field of customer service!
 
-![image](https://github.com/user-attachments/assets/523a122e-fc42-44a0-aa3d-3cf9f0cc154a)
-![image](https://github.com/user-attachments/assets/69d7e932-6e7e-4ac6-8f04-3ef637e859a1)
-![image](https://github.com/user-attachments/assets/01705dcc-933a-49bd-b798-b25849e152df)
-![image](https://github.com/user-attachments/assets/8627ae75-9bca-4c50-b6a9-6c713f694abc)
-![image](https://github.com/user-attachments/assets/b16b77b2-2312-4324-8d60-fbe21aa7f81c)
-![image](https://github.com/user-attachments/assets/421299e3-18de-4815-b94c-3d97d6b3b027)
-![image](https://github.com/user-attachments/assets/6cbdd701-9349-4101-8b39-a5eb6dc0b7b2)
-![image](https://github.com/user-attachments/assets/97fe2184-2dff-4009-a8bf-95ea6a313d3e)
-![image](https://github.com/user-attachments/assets/46f29856-8270-43fe-b3e7-3240dd33d502)
-![image](https://github.com/user-attachments/assets/360f00f2-6a61-423f-ada0-eb67a2ce1ede)
-![image](https://github.com/user-attachments/assets/b8f100d0-6547-43dd-afab-ea331f0a8748)
+![image](https://github.com/user-attachments/assets/af6a1c07-0905-4127-92cb-73f151d9138c)
+![image](https://github.com/user-attachments/assets/b3be46e0-7a31-48f2-8fd9-e4290f7aa9db)
+![image](https://github.com/user-attachments/assets/28de00ca-ffbf-42d5-80f8-ea90619f31b1)
+![image](https://github.com/user-attachments/assets/d207ff15-8126-4f5e-8440-dabdbbef2c85)
+![image](https://github.com/user-attachments/assets/ee628993-f167-4eda-b9c4-fa1eca53d158)
+![image](https://github.com/user-attachments/assets/7e9280fb-eb8d-4ea1-933d-da82d78963d1)
+![image](https://github.com/user-attachments/assets/a539ce18-da6f-405f-ab69-b76ed52cc627)
+![image](https://github.com/user-attachments/assets/6f6ba7f0-cdd6-44fd-ade3-85b4a712d1ca)
+![image](https://github.com/user-attachments/assets/1e21099a-2d97-4644-ba2c-cffa7d10304b)
+![image](https://github.com/user-attachments/assets/38381405-081f-47a2-b722-5e58a75f0b0e)
 
 ## 🤔Liste des fonctions du système de centre d'appels LLM(LLM Call Center System Function List)
 ![image](https://github.com/user-attachments/assets/56bea3a1-b1fd-4118-8eb4-66f010476af0)
