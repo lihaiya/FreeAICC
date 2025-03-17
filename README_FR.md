@@ -56,6 +56,13 @@ The FreeAICC project was born out of FreeIPCC. In the era of big models, it is t
 2. AI calls improve the efficiency of business notifications and business reminders;
 3. AI agent assistance makes agents easier!
 
+Fonctionnalités de base :
+1. Routage intelligent : Grâce à des règles prédéfinies ou à des algorithmes d’IA, les demandes des clients sont automatiquement attribuées au conseiller client ou au module libre-service le plus approprié, garantissant ainsi une gestion rapide et professionnelle de leurs problèmes.
+2. Système de réponse vocale interactive (SVI) : Un menu vocal flexible permet aux clients d’effectuer eux-mêmes les opérations courantes, telles que les demandes de renseignements et les réparations, de réduire la pression sur les agents et d’améliorer l’efficacité du service.
+3. Analyse et reporting des données : Un puissant moteur d’analyse de données intégré génère automatiquement divers rapports de service, tels que des statistiques sur le volume d’appels, des enquêtes de satisfaction client, des analyses d’efficacité du service, etc., afin de fournir une base de données pour la prise de décision.
+4. API ouverte et extension de plug-ins : Des interfaces API riches permettent aux développeurs tiers d’étendre les fonctionnalités ou de personnaliser le développement basé sur notre plateforme. Parallèlement, nous gérons activement un marché de plug-ins et collectons des plug-ins de haute qualité parmi lesquels les utilisateurs peuvent choisir. 5. Hautement configurable : Offrez une interface de configuration intuitive permettant aux utilisateurs d'ajuster les paramètres système et d'optimiser les flux de travail selon leurs besoins sans programmation, et de bénéficier d'une personnalisation et d'un déploiement rapides.
+6. Soutien communautaire et co-construction écologique : Établissez une communauté open source active pour encourager les utilisateurs à partager leurs expériences, à formuler des exigences, à contribuer au code et à promouvoir conjointement le développement et l'amélioration continus du projet. Nous sommes convaincus que grâce à la puissance de la communauté, notre centre d'appels open source continuera d'évoluer et de devenir un leader dans le domaine du service client !
+
 Basic functions:
 1. Intelligent routing: Based on preset rules or AI algorithms, customer requests are automatically assigned to the most appropriate customer service representative or self-service module to ensure that customer issues are handled promptly and professionally.
 2. IVR (Interactive Voice Response) system: Provides flexible voice menu design to guide customers to complete common operations such as inquiries and repairs by themselves, reduce the pressure on manual agents, and improve service efficiency.
@@ -76,9 +83,9 @@ Basic functions:
 ![image](https://github.com/user-attachments/assets/360f00f2-6a61-423f-ada0-eb67a2ce1ede)
 ![image](https://github.com/user-attachments/assets/b8f100d0-6547-43dd-afab-ea331f0a8748)
 
-## 🤔LLM Call Center System Function List
+## 🤔Liste des fonctions du système de centre d'appels LLM(LLM Call Center System Function List)
 ![image](https://github.com/user-attachments/assets/56bea3a1-b1fd-4118-8eb4-66f010476af0)
 ![image](https://github.com/user-attachments/assets/95328f16-e43a-4e6a-87d7-1c1ba95f5824)
 ![image](https://github.com/user-attachments/assets/478dc431-8f05-4333-8d8a-4f61c9ff8749)
 
-# 😄Let me express our values ​​again: We firmly believe that only when software is used can it bring value to users and allow itself to iterate!!!
+# 😄Permettez-moi d'exprimer à nouveau nos valeurs : nous croyons fermement que ce n'est que lorsque le logiciel est utilisé qu'il peut apporter de la valeur aux utilisateurs et se permettre d'itérer !!!(Let me express our values ​​again: We firmly believe that only when software is used can it bring value to users and allow itself to iterate!!!)
