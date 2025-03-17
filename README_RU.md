@@ -65,8 +65,8 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/a00a0d24-f0be-4e22-9428-77c98abbc690)
 
 ## 🤔Список функций системы колл-центра LLM
-![image](https://github.com/user-attachments/assets/56bea3a1-b1fd-4118-8eb4-66f010476af0)
-![image](https://github.com/user-attachments/assets/95328f16-e43a-4e6a-87d7-1c1ba95f5824)
-![image](https://github.com/user-attachments/assets/478dc431-8f05-4333-8d8a-4f61c9ff8749)
+![image](https://github.com/user-attachments/assets/6a694f51-13aa-4f81-b831-58ad8e89079e)
+![image](https://github.com/user-attachments/assets/c54e7c9c-e20b-43cd-9dd9-bad5d45a8059)
+![image](https://github.com/user-attachments/assets/8271ab13-26f9-49fc-95aa-1b1f57ec4a5d)
 
 # 😄Позвольте мне еще раз выразить наши ценности: мы твердо верим, что только тогда, когда программное обеспечение используется, оно может приносить пользу пользователям и позволяет себе совершенствоваться!!!
