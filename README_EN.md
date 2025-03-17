@@ -38,7 +38,7 @@ The business module is mainly Java; the intelligent module is mainly Python.
 Vision:
 The FreeAICC project was born out of FreeIPCC. In the era of big models, it is the first to apply big models and artificial intelligence to the field of real-time communication!
 1. AI agents improve service efficiency;
-2. AI outbound calls improve the efficiency of business notifications and business reminders;
+2. AI calls improve the efficiency of business notifications and business reminders;
 3. AI agent assistance makes agents easier!
 
 Basic functions:
