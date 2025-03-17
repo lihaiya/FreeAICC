@@ -74,7 +74,8 @@ FreeAICC の目標は FreeIPCC から解放され、大モデルの時間に、�
 
 ## 🤔作業指示システム機能一覧
 
-![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
-![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
+![image](https://github.com/user-attachments/assets/89e24ec8-a59d-44b3-8f33-1972b722f1dc)
+![image](https://github.com/user-attachments/assets/d22ff919-2b40-42d4-afd5-badbe0e5c000)
+![image](https://github.com/user-attachments/assets/f32a4978-b9a1-4b91-94ed-20f180f9596b)
 
 # 😄私たちの価値観をもう一度述べさせてください。ソフトウェアは、使用されて初めてユーザーに価値をもたらし、反復できるようになると私たちは固く信じています。 
