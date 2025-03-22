@@ -60,6 +60,8 @@ Basic functions:
 ![image](https://github.com/user-attachments/assets/01705dcc-933a-49bd-b798-b25849e152df)
 ![image](https://github.com/user-attachments/assets/8627ae75-9bca-4c50-b6a9-6c713f694abc)
 ![image](https://github.com/user-attachments/assets/b16b77b2-2312-4324-8d60-fbe21aa7f81c)
+![image](https://github.com/user-attachments/assets/32d23565-c75b-46cb-a6a8-267891d152d5)
+
 ![image](https://github.com/user-attachments/assets/421299e3-18de-4815-b94c-3d97d6b3b027)
 ![image](https://github.com/user-attachments/assets/6cbdd701-9349-4101-8b39-a5eb6dc0b7b2)
 ![image](https://github.com/user-attachments/assets/97fe2184-2dff-4009-a8bf-95ea6a313d3e)
