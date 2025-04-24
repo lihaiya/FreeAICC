@@ -1,5 +1,5 @@
 # LLM Call Center System FreeAICC
-**Read this in [English](README_EN.md).**!
+**Read this in [English](README_EN.md).**
 **Читать на русском языке [Русский](README_RU.md).**
 **Auf Deutsch lesen [Deutsch](README_DE.md).**
 **Lire en français [Französisch](README_FR.md).**
@@ -25,13 +25,13 @@ We are committed to becoming the global leader in: open source call center syste
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# 2025.04.23 latest demo link enjoy😄😄：
+# 2025.04.24 latest demo link enjoy😄😄：
 
 1，Telephone/Online Customer Service：(demo123/demo123@Abc)
-http://118.25.192.13:8822/cc
+http://124.220.48.38:8822/cc
 
 2，Work Order：(demo/123456)
-http://118.25.192.13:80
+http://124.220.48.38:80
 
 注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/b00ad977-4583-440b-8326-a1cc364068d2)
