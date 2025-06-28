@@ -1,5 +1,5 @@
 # LLM Call Center System FreeAICC
-**Read this in [English](README_EN.md).**!
+**Read this in [English](README_EN.md).**
 **Читать на русском языке [Русский](README_RU.md).**
 **Auf Deutsch lesen [Deutsch](README_DE.md).**
 **Lire en français [Französisch](README_FR.md).**
@@ -21,6 +21,8 @@ AI呼叫中心,AI客服系统,智能客服,智能呼叫中心,AI Call Center,AI 
 <img src="https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5" width="200" height="100">
 <img src="https://github.com/user-attachments/assets/8ffb1298-a1de-45e4-9384-b9682715f197" width="300" height="100">
 
+## 😄Cisco Call Center, Avaya Call Center, domestic alternatives; can also connect to Cisco and Avaya, reusing old systems; the source of domestic call centers!
+
 # Target
 We are committed to becoming the global leader in: open source call center systems, large model call center systems, large model inbound robots, large model outbound robots, telephone robots, intelligent call center systems, and large model intelligent customer service systems!
 
@@ -30,7 +32,7 @@ We are committed to becoming the global leader in: open source call center syste
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-# 2025.06.27 latest demo link enjoy😄😄：
+# 2025.06.28 latest demo link enjoy😄😄：
 
 1，Telephone/Online Customer Service：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
