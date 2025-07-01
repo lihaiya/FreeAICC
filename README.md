@@ -1,5 +1,5 @@
 # LLM Call Center System FreeAICC
-**Read this in [English](README_EN.md).**!!
+**Read this in [English](README_EN.md).**
 **Читать на русском языке [Русский](README_RU.md).**
 **Auf Deutsch lesen [Deutsch](README_DE.md).**
 **Lire en français [Französisch](README_FR.md).**
@@ -38,7 +38,7 @@ We are committed to becoming the global leader in: open source call center syste
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-# 2025.06.30 latest demo link enjoy😄😄：
+# 2025.07.01 latest demo link enjoy😄😄：
 
 1，Telephone/Online Customer Service：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
