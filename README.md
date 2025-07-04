@@ -1,5 +1,5 @@
 # LLM Call Center System FreeAICC
-**Read this in [English](README_EN.md).**!
+**Read this in [English](README_EN.md).**
 **Читать на русском языке [Русский](README_RU.md).**
 **Auf Deutsch lesen [Deutsch](README_DE.md).**
 **Lire en français [Französisch](README_FR.md).**
