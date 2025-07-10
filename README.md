@@ -78,13 +78,17 @@ Basic functions:
 6. Community support and ecological co-construction: Establish an active open source community to encourage users to share experiences, put forward requirements, contribute code, and jointly promote the continuous development and improvement of the project. We believe that through the power of the community, our open source call center will continue to evolve and become a leader in the field of customer service!
 
 ![image](https://github.com/user-attachments/assets/523a122e-fc42-44a0-aa3d-3cf9f0cc154a)
-// ![image](https://github.com/user-attachments/assets/69d7e932-6e7e-4ac6-8f04-3ef637e859a1)
-// ![image](https://github.com/user-attachments/assets/01705dcc-933a-49bd-b798-b25849e152df)
+ ![image](https://github.com/user-attachments/assets/69d7e932-6e7e-4ac6-8f04-3ef637e859a1)
 ![image](https://github.com/user-attachments/assets/8627ae75-9bca-4c50-b6a9-6c713f694abc)
+
+<!--
+// ![image](https://github.com/user-attachments/assets/01705dcc-933a-49bd-b798-b25849e152df)
 // ![image](https://github.com/user-attachments/assets/b16b77b2-2312-4324-8d60-fbe21aa7f81c)
+// ![image](https://github.com/user-attachments/assets/421299e3-18de-4815-b94c-3d97d6b3b027)
+-->
+
 ![image](https://github.com/user-attachments/assets/32d23565-c75b-46cb-a6a8-267891d152d5)
 
-// ![image](https://github.com/user-attachments/assets/421299e3-18de-4815-b94c-3d97d6b3b027)
 ![image](https://github.com/user-attachments/assets/6cbdd701-9349-4101-8b39-a5eb6dc0b7b2)
 ![image](https://github.com/user-attachments/assets/97fe2184-2dff-4009-a8bf-95ea6a313d3e)
 ![image](https://github.com/user-attachments/assets/46f29856-8270-43fe-b3e7-3240dd33d502)
