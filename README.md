@@ -37,7 +37,7 @@ We are committed to becoming the global leader in: open source call center syste
 ## - 📫 How to reach us 📫:
 - Tencent WeChat01:freeipcc
 - Tencent WeChat02:freeaicc
-- Tencent WeChat03:freeaicc
+- Tencent WeChat03:easyaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
