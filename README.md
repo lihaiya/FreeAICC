@@ -57,7 +57,7 @@ http://124.220.48.38:80
 
 3，Demo video: Please download the repository MP4 file.
 
-# Development Language：Java,Vue,Python,SpringBoot！
+# Development Language：Java,Vue,SpringBoot！
 
 The business module is mainly Java; the intelligent module is mainly Python.
 
