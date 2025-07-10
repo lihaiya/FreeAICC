@@ -50,21 +50,14 @@ Funciones básicas:
 5. Altamente configurable: Ofrecemos una interfaz de configuración intuitiva para que los usuarios puedan ajustar los parámetros del sistema y optimizar los flujos de trabajo según sus necesidades sin necesidad de programación, logrando una rápida personalización e implementación.
 6. Apoyo comunitario y co-construcción ecológica: Establecer una comunidad activa de código abierto para animar a los usuarios a compartir experiencias, plantear requisitos, contribuir con código y promover conjuntamente el desarrollo y la mejora continua del proyecto. Creemos que, gracias al poder de la comunidad, nuestro centro de llamadas de código abierto seguirá evolucionando y se convertirá en un líder en el campo de la atención al cliente.
 
-![image](https://github.com/user-attachments/assets/523a122e-fc42-44a0-aa3d-3cf9f0cc154a)
-![image](https://github.com/user-attachments/assets/69d7e932-6e7e-4ac6-8f04-3ef637e859a1)
-![image](https://github.com/user-attachments/assets/01705dcc-933a-49bd-b798-b25849e152df)
-![image](https://github.com/user-attachments/assets/8627ae75-9bca-4c50-b6a9-6c713f694abc)
-![image](https://github.com/user-attachments/assets/b16b77b2-2312-4324-8d60-fbe21aa7f81c)
-![image](https://github.com/user-attachments/assets/421299e3-18de-4815-b94c-3d97d6b3b027)
-![image](https://github.com/user-attachments/assets/6cbdd701-9349-4101-8b39-a5eb6dc0b7b2)
-![image](https://github.com/user-attachments/assets/97fe2184-2dff-4009-a8bf-95ea6a313d3e)
-![image](https://github.com/user-attachments/assets/46f29856-8270-43fe-b3e7-3240dd33d502)
-![image](https://github.com/user-attachments/assets/360f00f2-6a61-423f-ada0-eb67a2ce1ede)
-![image](https://github.com/user-attachments/assets/b8f100d0-6547-43dd-afab-ea331f0a8748)
+![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
+![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
+![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
+![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
+![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
+![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
 ## 🤔Lista de funciones del sistema de centro de llamadas LLM
-![image](https://github.com/user-attachments/assets/56bea3a1-b1fd-4118-8eb4-66f010476af0)
-![image](https://github.com/user-attachments/assets/95328f16-e43a-4e6a-87d7-1c1ba95f5824)
-![image](https://github.com/user-attachments/assets/478dc431-8f05-4333-8d8a-4f61c9ff8749)
 
 # 😄Permítanme expresar nuestros valores nuevamente: Creemos firmemente que solo cuando se utiliza el software puede aportar valor a los usuarios y permitir la iteración.
