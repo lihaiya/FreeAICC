@@ -41,6 +41,7 @@ We are committed to becoming the global leader in: open source call center syste
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
+<!--
 # 2025.07.10 latest demo link enjoy😄😄：
 
 1，Telephone/Online Customer Service：(demo123/demo123@Abc)
@@ -48,6 +49,8 @@ http://124.220.48.38:8822/cc
 
 2，Work Order：(demo/123456)
 http://124.220.48.38:80
+
+-->
 
 注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/b00ad977-4583-440b-8326-a1cc364068d2)
@@ -75,13 +78,13 @@ Basic functions:
 6. Community support and ecological co-construction: Establish an active open source community to encourage users to share experiences, put forward requirements, contribute code, and jointly promote the continuous development and improvement of the project. We believe that through the power of the community, our open source call center will continue to evolve and become a leader in the field of customer service!
 
 ![image](https://github.com/user-attachments/assets/523a122e-fc42-44a0-aa3d-3cf9f0cc154a)
-![image](https://github.com/user-attachments/assets/69d7e932-6e7e-4ac6-8f04-3ef637e859a1)
-![image](https://github.com/user-attachments/assets/01705dcc-933a-49bd-b798-b25849e152df)
+// ![image](https://github.com/user-attachments/assets/69d7e932-6e7e-4ac6-8f04-3ef637e859a1)
+// ![image](https://github.com/user-attachments/assets/01705dcc-933a-49bd-b798-b25849e152df)
 ![image](https://github.com/user-attachments/assets/8627ae75-9bca-4c50-b6a9-6c713f694abc)
-![image](https://github.com/user-attachments/assets/b16b77b2-2312-4324-8d60-fbe21aa7f81c)
+// ![image](https://github.com/user-attachments/assets/b16b77b2-2312-4324-8d60-fbe21aa7f81c)
 ![image](https://github.com/user-attachments/assets/32d23565-c75b-46cb-a6a8-267891d152d5)
 
-![image](https://github.com/user-attachments/assets/421299e3-18de-4815-b94c-3d97d6b3b027)
+// ![image](https://github.com/user-attachments/assets/421299e3-18de-4815-b94c-3d97d6b3b027)
 ![image](https://github.com/user-attachments/assets/6cbdd701-9349-4101-8b39-a5eb6dc0b7b2)
 ![image](https://github.com/user-attachments/assets/97fe2184-2dff-4009-a8bf-95ea6a313d3e)
 ![image](https://github.com/user-attachments/assets/46f29856-8270-43fe-b3e7-3240dd33d502)
@@ -95,6 +98,7 @@ Basic functions:
 
 ## 😄每一个用户，都有专属群支持：10人左右，响应更及时
 
+<!--
 下图是随机抽取的需求对接的群：
 
 ![image](https://github.com/user-attachments/assets/c768011a-342f-4f38-a8c5-bb733cd38d47)
@@ -105,7 +109,7 @@ Basic functions:
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
 ![image](https://github.com/user-attachments/assets/35958ea3-3dc4-45ef-9fe6-7a16cf66c39d)
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
-
+-->
 # 😄Let me express our values ​​again: We firmly believe that only when software is used can it bring value to users and allow itself to iterate!
 
 The sample code is the backend code of the web customer service. The original frontend is outdated and is still being updated. 
