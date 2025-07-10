@@ -76,20 +76,14 @@ Basic functions:
 5. Highly configurable: Provide an intuitive configuration interface so that users can adjust system parameters and optimize workflows according to their own needs without programming, and achieve rapid customization and deployment.
 6. Community support and ecological co-construction: Establish an active open source community to encourage users to share experiences, put forward requirements, contribute code, and jointly promote the continuous development and improvement of the project. We believe that through the power of the community, our open source call center will continue to evolve and become a leader in the field of customer service!
 
-![image](https://github.com/user-attachments/assets/68135ffe-0639-419a-a81d-a591a56011cf)
-![image](https://github.com/user-attachments/assets/5348d693-6063-413d-b3c0-79c4383b940e)
-![image](https://github.com/user-attachments/assets/20363a01-5aad-4e1b-a1c1-0e116be97c9a)
-![image](https://github.com/user-attachments/assets/7c7cb304-7518-44e0-acf6-0644e6feb979)
-![image](https://github.com/user-attachments/assets/57ab3184-3605-4d1f-aeca-d4a0aee74dce)
-![image](https://github.com/user-attachments/assets/e1063aff-31f0-4129-b10a-30cdf23b21b2)
-![image](https://github.com/user-attachments/assets/5846e1fb-e07d-45fd-8c57-dba13acab578)
-![image](https://github.com/user-attachments/assets/a59e2bf2-1f32-4b66-a482-b9c55de28deb)
-![image](https://github.com/user-attachments/assets/feff59e0-880b-4de9-8a85-d3801b8571be)
-![image](https://github.com/user-attachments/assets/ac528d5f-0d7f-4212-8659-a125dfe087ec)
+![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
+![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
+![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
+![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
+![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
+![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
 ## 🤔Funktionsliste des LLM Callcenter-Systems(LLM Call Center System Function List)
-![image](https://github.com/user-attachments/assets/995e5682-86c6-4de9-b567-db22e1ea6a2b)
-![image](https://github.com/user-attachments/assets/64e29c19-7479-43ed-b5e4-19254a5821f5)
-![image](https://github.com/user-attachments/assets/607f475d-1c82-4e6c-8904-983c727d6366)
 
 # 😄Lassen Sie mich unsere Werte noch einmal zum Ausdruck bringen: Wir sind der festen Überzeugung, dass Software nur dann einen Mehrwert für die Benutzer bietet und Iterationen zulässt, wenn sie verwendet wird!!!(Let me express our values ​​again: We firmly believe that only when software is used can it bring value to users and allow itself to iterate!!!)
